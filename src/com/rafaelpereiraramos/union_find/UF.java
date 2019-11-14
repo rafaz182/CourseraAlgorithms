@@ -2,6 +2,9 @@ package com.rafaelpereiraramos.union_find;
 
 public abstract class UF {
 
+    /**
+     * Index is the object, and its value is your connection
+     */
     protected int[] id;
 
     /**
