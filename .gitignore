@@ -91,3 +91,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/c,windows,codeblocks
+
+
+.idea/
+.vscode/
